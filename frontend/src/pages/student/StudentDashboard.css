@@ -1,0 +1,29 @@
+.student-dashboard {
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.student-dashboard h2 {
+  color: #2563eb;
+}
+
+.student-dashboard .card {
+  background: #f9f9f9;
+  padding: 15px;
+  margin: 10px 0;
+  border-radius: 6px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+.student-dashboard button {
+  background: #2563eb;
+  color: white;
+  border: none;
+  padding: 8px 14px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.student-dashboard button:hover {
+  background: #1e40af;
+}
